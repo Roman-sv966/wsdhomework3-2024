@@ -15,4 +15,4 @@ def test_multiplication():
 
 def test_division():
     '''Test that multiplication function works '''
-    assert divide(2,2) == 1
+    assert divide(3,3) == 1
